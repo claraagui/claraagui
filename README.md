@@ -48,15 +48,5 @@ I’m motivated, curious, and enjoy learning by building projects. I like workin
 
 ---
 
-📫 **Feel free to explore my repositories or connect with me!**
-
----
-
-Si quieres, puedo:
-
-* Hacerla **más corta**
-* Ajustarla a **Data Science / ML**
-* Hacerla más **casual o más formal**
-* Añadir una sección tipo **“Featured Projects”**
-
-Dime cómo la quieres y la dejamos perfecta 🚀
+📫 ** Contact:
+You can contact me by my personal e-mail (aclarapao@gmail.com)
