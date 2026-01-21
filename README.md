@@ -48,5 +48,5 @@ I’m motivated, curious, and enjoy learning by building projects. I like workin
 
 ---
 
-📫 ** Contact:
+## 📫 Contact:
 You can contact me by my personal e-mail (aclarapao@gmail.com)
