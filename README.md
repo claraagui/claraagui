@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hey, I'm Clara
 
-<!--
-**claraagui/claraagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student in Data Science Engineering at ITESO, interested in data analysis, data visualization, and machine learning. I enjoy exploring datasets, understanding their features, and transforming data into insights through visual analysis. I have experience working with Python, Power BI and SQL, building machine learning models, and basic knowledge of cloud technologies. Additionally, I have experience in product administration and organizing small events, which has helped me develop strong analytical and organizational skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+* **Programming Languages:**
+
+  * Python
+  * SQL
+  * Power BI
+
+* **Machine Learning & Data:**
+
+  * Supervised learning models (classification & regression)
+  * Data preprocessing and feature engineering
+  * Model evaluation and optimization
+
+* **Tools & Technologies:**
+
+  * Pandas, NumPy, scikit-learn
+  * Git & GitHub
+  * Basic cloud concepts
+
+---
+
+## 📚 Experience & Projects
+
+* Developed academic and personal projects using **machine learning models** on real datasets.
+* Applied data analysis techniques to extract insights and improve model performance.
+* Collaborated on projects that required combining **technical work with product-oriented thinking**.
+
+---
+
+## 🌱 Currently Learning
+
+* Cloud platforms and deployment basics
+* Advanced machine learning techniques
+* Best practices in data-driven product development
+
+---
+
+## 🤝 About Me
+
+I’m motivated, curious, and enjoy learning by building projects. I like working at the intersection of **technology, data, and real-world problem solving**, and I’m always looking to improve my skills.
+
+---
+
+📫 **Feel free to explore my repositories or connect with me!**
+
+---
+
+Si quieres, puedo:
+
+* Hacerla **más corta**
+* Ajustarla a **Data Science / ML**
+* Hacerla más **casual o más formal**
+* Añadir una sección tipo **“Featured Projects”**
+
+Dime cómo la quieres y la dejamos perfecta 🚀
